@@ -7,3 +7,5 @@ print(np.zeros((2,3), dtype=int)+7)
 print(np.eye(4))
 print(np.arange(0, 10, 2))
 print(np.empty((3, 3)))
+
+print(np.linspace(6., 15., num=10))
